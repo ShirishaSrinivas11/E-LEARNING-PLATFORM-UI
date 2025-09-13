@@ -32,5 +32,11 @@ This front-end project demonstrates capabilities in building intuitive web inter
 
 #OUTPUT:
 
+<img width="1920" height="962" alt="Image" src="https://github.com/user-attachments/assets/4f3266ef-b3fd-4efc-a8c4-440d25856df6" />
 
+<img width="1920" height="962" alt="Image" src="https://github.com/user-attachments/assets/afe72c6b-2e7d-4b50-b4d0-fa2603813a4a" />
+
+<img width="1920" height="938" alt="Image" src="https://github.com/user-attachments/assets/2d085bfa-2fd3-422b-8f08-204af8aeb2f3" />
+
+<img width="1920" height="935" alt="Image" src="https://github.com/user-attachments/assets/1ce93b5a-9d8f-469c-81f0-60f6394ace3f" />
 

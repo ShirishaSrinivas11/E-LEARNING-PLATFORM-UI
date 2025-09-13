@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard | E-Learnify</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo">E-Learnify</div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="courses.html">Courses</a></li>
+      <li><a href="dashboard.html" class="active">Dashboard</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h2>Your Learning Progress</h2>
+    <div class="progress-list">
+      <div class="progress-card">
+        <h4>JavaScript Essentials</h4>
+        <div class="progress-bar" data-progress="60"></div>
+        <span>60% completed</span>
+      </div>
+      <div class="progress-card">
+        <h4>Algorithm Mastery</h4>
+        <div class="progress-bar" data-progress="40"></div>
+        <span>40% completed</span>
+      </div>
+    </div>
+  </main>
+  <script src="progress.js"></script>
+</body>
+</html>
